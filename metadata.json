@@ -1,0 +1,5 @@
+{
+  "name": "AI Content Generator Studio",
+  "description": "An all-in-one AI-powered application to generate content narration, batch images from text prompts, and create videos from images.",
+  "requestFramePermissions": []
+}
